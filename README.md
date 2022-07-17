@@ -1,6 +1,8 @@
 # first_flutter
 
-A new Flutter project.
+A Flutter App that generates new baby names so Parents can have suggestions.
+
+Ensures babies have great Names 'smile'
 
 ## Getting Started
 
